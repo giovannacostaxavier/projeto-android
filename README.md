@@ -42,3 +42,24 @@ Este projeto é um exemplo de como combinar **conteúdo textual e visual** de ma
 - `style.css` → Estilos e layout do site  
 - `imagens/` → Imagens utilizadas  
 - `fontes/` → Tipografias personalizadas  
+
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido para:
+
+- Praticar **HTML e CSS** na criação de páginas web  
+- Trabalhar com **imagens, fontes e estilização**  
+- Organizar conteúdo de forma clara e visualmente agradável  
+- Consolidar conhecimentos de front-end aprendidos no curso  
+
+---
+
+## 🎨 Conceitos Trabalhados
+
+- Estrutura semântica de páginas web  
+- Aplicação de **CSS para estilo e layout**  
+- Organização de arquivos e pastas em projetos web  
+- Experiência do usuário (UX) básica
