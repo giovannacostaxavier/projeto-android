@@ -37,3 +37,8 @@ Este projeto é um exemplo de como combinar **conteúdo textual e visual** de ma
 ---
 
 ## 📂 Estrutura do Projeto
+
+- `index.html` → Página principal  
+- `style.css` → Estilos e layout do site  
+- `imagens/` → Imagens utilizadas  
+- `fontes/` → Tipografias personalizadas  
