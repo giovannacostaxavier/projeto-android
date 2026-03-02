@@ -31,8 +31,7 @@ Este projeto é um exemplo de como combinar **conteúdo textual e visual** de ma
 
 - **HTML5** – Estrutura da página  
 - **CSS3** – Estilização e layout  
-- **Visual Studio Code** – Editor de código  
-- **Git & GitHub** – Controle de versão e hospedagem  
+- **Visual Studio Code** – Editor de código   
 
 ---
 
